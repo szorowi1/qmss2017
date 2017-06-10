@@ -1,0 +1,23 @@
+Python Workshop
+https://github.com/szorowi1/qmss2017
+
+AUTHORS NOTE
+This dataset is too large to store on Github. To download, please see the links below. Furthermore, the dataset was decimated (i.e. reduced to every tenth row) in the tutorial in order to make the data more manageable for live demonstrations.
+
+Amazon Food Reviews Dataset
+* Downloaded from: http://snap.stanford.edu/data/web-FineFoods.html
+* Published: http://i.stanford.edu/~julian/pdfs/www13.pd
+* Further discussion: https://www.kaggle.com/snap/amazon-fine-food-reviews
+
+Data Set Information:
+The Amazon Fine Food Reviews dataset consists of 568,454 food reviews Amazon users left up to October 2012. It is formatted as a single CSV file, Reviews.csv, and a corresponding SQLite table named Reviews in database.sqlite. The columns in the table are:
+* Id
+* ProductId - unique identifier for the product
+* UserId - unqiue identifier for the user
+* ProfileName
+* HelpfulnessNumerator - number of users who found the review helpful
+* HelpfulnessDenominator - number of users who indicated whether they found the review helpful
+* Score - rating between 1 and 5
+* Time - timestamp for the review
+* Summary - brief summary of the review
+* Text - text of the review
