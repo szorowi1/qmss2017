@@ -1,1 +1,7 @@
-Will fill this in, I promise ;)
+| # | Topic                   | Description                                                                                                                                                                 | Packages Used |
+|---|-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
+| 1 | Intro to Python & Numpy | An overview of the Python language, including basic types, control flow, defining functions, and basic scripting. Also introduces the NumPy library and its core functions. |               |
+| 2 |                         |                                                                                                                                                                             |               |
+| 3 |                         |                                                                                                                                                                             |               |
+| 4 |                         |                                                                                                                                                                             |               |
+| 5 |                         |                                                                                                                                                                             |               |
