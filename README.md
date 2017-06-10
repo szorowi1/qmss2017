@@ -19,7 +19,7 @@ The tutorials are all written in Jupyter-Notebooks using Anaconda python distrib
 
 # References
 ## Essential Texts
-The following references were instrumental in writing these tutorials and provided tremendous insight in introducing topics, structuring walkthroughs, and describing functions. They are exceptional guides to their respective topics and are cited repeatedly in the tutorials. I extend serious thanks to the authors.
+The following references were instrumental in writing these tutorials and provided tremendous insight in introducing topics, structuring walkthroughs, and describing functions. They are exceptional guides to their respective topics and are cited repeatedly. I extend my sincere thanks to the authors.
 
 Kevin Sheppard. *Introduction to Python for Econometrics, Statistics, and Data Analysis, 3rd Edition.* https://www.kevinsheppard.com/Python_for_Econometrics.
 
