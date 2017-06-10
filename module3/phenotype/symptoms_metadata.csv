@@ -1,0 +1,283 @@
+,Survey,Variable,Description
+0,Demographics,diagnosis,Diagnosis
+1,Demographics,sex,Sex
+2,Demographics,age,Age
+3,Demographics,school,How many years of school complete.
+4,ASRS,asrs01,How often do you have trouble wrapping up the final details of a project once the challenging parts have been done.
+5,ASRS,asrs02,How often do you have difficulty getting things in order when you have to do a task that requires organization.
+6,ASRS,asrs03,How often do you have problems remembering appointments or obligations.
+7,ASRS,asrs04,When you have a task that requires a lot of thought how often do you avoid or delay getting started.
+8,ASRS,asrs05,How often do you fidget or squirm with your hands or feet when you have to sit down for a long time.
+9,ASRS,asrs06,How often do you feel overly active and compelled to do things like you were driven by a motor.
+10,Bipolar,bipolar01,My mood often changes from happiness to sadness without my knowing why.
+11,Bipolar,bipolar02,I have frequent ups and downs in mood with and without apparent cause.
+12,Bipolar,bipolar03,I often feel guilty without a very good reason for it.
+13,Bipolar,bipolar04,My feelings are rather easily hurt.
+14,Bipolar,bipolar05,There are times when my future looks very dark.
+15,Bipolar,bipolar06,Ideas run through my head so that i cannot sleep.
+16,Bipolar,bipolar07,I keep in fairly uniform spirits.
+17,Bipolar,bipolar08,Often i find it difficult to go to sleep because of thinking what happened during the day.
+18,Bipolar,bipolar09,I often feel disgruntled.
+19,Bipolar,bipolar10,I am inclined to rush from one activity to another without pausing for enough rest.
+20,Bipolar,bipolar11,I am a horse for work i am seldom exhausted.
+21,Bipolar,bipolar12,I am the kind of person who is on the go all the time.
+22,Bipolar,bipolar13,I am able to work unusually long hours without feeling tired.
+23,Bipolar,bipolar14,I am often so much on the go that sooner or later i wear myself out.
+24,Bipolar,bipolar15,I am quick in my actions.
+25,Bipolar,bipolar16,I am happiest when i get involved in some project that calls for rapid action.
+26,Bipolar,bipolar17,I have experienced periods so full of pep that sleep didnt seem to be necessary for days at a time.
+27,Bipolar,bipolar18,I daydream a great deal.
+28,Bipolar,bipolar19,I like to indulge in a reverie daydreaming.
+29,Bipolar,bipolar20,I daydream very little.
+30,Bipolar,bipolar21,I frequently find myself in a meditative state.
+31,Bipolar,bipolar22,I am inclined to think about myself much of the time.
+32,Bipolar,bipolar23,My daydreams are frequently about things that can never come true.
+33,Bipolar,bipolar24,It is hard for me to ask someone for a favor.
+34,Bipolar,bipolar25,When i meet new people i am afraid i wont do the right thing.
+35,Bipolar,bipolar26,I feel that i never really get all that i need from people.
+36,Bipolar,bipolar27,I dont like to buy clothes for myself.
+37,Bipolar,bipolar28,I would rather stay free of involvements with others than risk disappointments.
+38,Bipolar,bipolar29,While in trains buses etc i often talk to strangers.
+39,Bipolar,bipolar30,Hope only brings disappointment.
+40,Bipolar,bipolar31,I am inclined to be shy in the presence of the opposite sex.
+41,Chapman Hypomania,chaphyp01,I consider myself to be pretty much an average kind of person.
+42,Chapman Hypomania,chaphyp02,It would make me nervous to play the clown in front of other people.
+43,Chapman Hypomania,chaphyp03,I am frequently so hyper that my friends kiddingly ask me what drug im taking.
+44,Chapman Hypomania,chaphyp04,I think i would make a good nightclub comedian.
+45,Chapman Hypomania,chaphyp05,Sometimes ideas and insights come to me so fast that i cannot express them all.
+46,Chapman Hypomania,chaphyp06,When with groups of people i usually prefer to let someone else be the center of attention.
+47,Chapman Hypomania,chaphyp07,In unfamiliar surroundings i am often so assertive and sociable that isurprise myself.
+48,Chapman Hypomania,chaphyp08,There are often times when i am so restless that it is impossible for me to sit still.
+49,Chapman Hypomania,chaphyp09,Many people consider me to be amusing but kind of eccentric.
+50,Chapman Hypomania,chaphyp10,When i feel an emotion i usually feel it with extreme intensity.
+51,Chapman Hypomania,chaphyp11,I am frequently in such high spirits that i cant concentrate on any one thing for too long.
+52,Chapman Hypomania,chaphyp12,I sometimes have felt that nothing can happen to me until i do what i am meant to do in life.
+53,Chapman Hypomania,chaphyp13,People often come to me when they need a clever idea.
+54,Chapman Hypomania,chaphyp14,I am no more selfaware than the majority of people.
+55,Chapman Hypomania,chaphyp15,I often feel excited and happy for no apparent reason.
+56,Chapman Hypomania,chaphyp16,I cant imagine that anyone would ever write a book about my life.
+57,Chapman Hypomania,chaphyp17,I am usually in an average sort of mood not too high and not too low.
+58,Chapman Hypomania,chaphyp18,I often have moods where i feel so energetic and optimistic that i feel icould outperform almost anyone at anything.
+59,Chapman Hypomania,chaphyp19,I have such a wide range of interests that i often dont know what to do next.
+60,Chapman Hypomania,chaphyp20,There have often been times when i had such an excess of energy that ifelt little need to sleep at night.
+61,Chapman Hypomania,chaphyp21,My moods do not seem to fluctuate any more than most peoples do.
+62,Chapman Hypomania,chaphyp22,I very frequently get into moods where i wish i could be everywhere and do everything at once.
+63,Chapman Hypomania,chaphyp23,I expect that someday i will succeed in several different professions.
+64,Chapman Hypomania,chaphyp24,When i feel very excited and happy i almost always know the reason why.
+65,Chapman Hypomania,chaphyp25,When i go to a gathering where i dont know anyone it usually takes me a while to feel comfortable.
+66,Chapman Hypomania,chaphyp26,I think i would make a good actor because i can play many roles convincingly.
+67,Chapman Hypomania,chaphyp27,I like to have others think of me as a normal kind of person.
+68,Chapman Hypomania,chaphyp28,I frequently write down the thoughts and insights that come to me when iam thinking especially creatively.
+69,Chapman Hypomania,chaphyp29,I have often persuaded groups of friends to do something really adventurous or crazy.
+70,Chapman Hypomania,chaphyp30,I would really enjoy being a politician and hitting the campaign trail.
+71,Chapman Hypomania,chaphyp31,I can usually slow myself down when i want to.
+72,Chapman Hypomania,chaphyp32,I am considered to be kind of a hyper person.
+73,Chapman Hypomania,chaphyp33,I often get so happy and energetic that i am almost giddy.
+74,Chapman Hypomania,chaphyp34,There are so many fields i could succeed in that it seems a shame to have to pick one.
+75,Chapman Hypomania,chaphyp35,I often get into moods where i feel like many of the rules of life dont apply to me.
+76,Chapman Hypomania,chaphyp36,I find it easy to get others to become sexually interested in me.
+77,Chapman Hypomania,chaphyp37,I seem to be a person whose mood goes up and down easily.
+78,Chapman Hypomania,chaphyp38,I frequently find that my thoughts are racing.
+79,Chapman Hypomania,chaphyp39,I am so good at controlling others that it sometimes scares me.
+80,Chapman Hypomania,chaphyp40,At social gatherings i am usually the life of the party.
+81,Chapman Hypomania,chaphyp41,I do most of my best work during brief periods of intense inspiration.
+82,Chapman Hypomania,chaphyp42,I seem to have an uncommon ability to persuade and inspire others.
+83,Chapman Hypomania,chaphyp43,I have often been so excited about an involving project that i didnt care about eating or sleeping.
+84,Chapman Hypomania,chaphyp44,I frequently get into moods where i feel very speededup and irritable.
+85,Chapman Hypomania,chaphyp45,I have often felt happy and irritable at the same time.
+86,Chapman Hypomania,chaphyp46,I often get into excited moods where its almost impossible for me to stop talking.
+87,Chapman Hypomania,chaphyp47,I would rather be an ordinary success in life than a spectacular failure.
+88,Chapman Hypomania,chaphyp48,A hundred years after im dead my achievements will probably have been forgotten.
+89,Chapman Percetual Aberrations,chapper01,I sometimes have had the feeling that some parts of my body are not attached to the same person.
+90,Chapman Percetual Aberrations,chapper02,Occasionally i have felt as though my body did not exist.
+91,Chapman Percetual Aberrations,chapper03,Sometimes people whom i know well begin to look like strangers.
+92,Chapman Percetual Aberrations,chapper04,My hearing is sometimes so sensitive that ordinary sounds become uncomfortable.
+93,Chapman Percetual Aberrations,chapper05,Often i have a day when indoor lights seem so bright that they bother my eyes.
+94,Chapman Percetual Aberrations,chapper06,My hands or feet have never seemed far away.
+95,Chapman Percetual Aberrations,chapper07,I have sometimes felt confused as to whether my body was really my own.
+96,Chapman Percetual Aberrations,chapper08,Sometimes i have felt that i could not distinguish my body from other objects around me.
+97,Chapman Percetual Aberrations,chapper09,I have felt that my body and another persons body were one and the same.
+98,Chapman Percetual Aberrations,chapper10,I have felt that something outside my body was a part of my body.
+99,Chapman Percetual Aberrations,chapper11,I sometimes have had the feeling that my body is abnormal.
+100,Chapman Percetual Aberrations,chapper12,Now and then when i look in the mirror my face seems quite different than usual.
+101,Chapman Percetual Aberrations,chapper13,I have never had the passing feeling that my arms or legs have become longer than usual.
+102,Chapman Percetual Aberrations,chapper14,I have sometimes felt that some part of my body no longer belongs to me.
+103,Chapman Percetual Aberrations,chapper15,Sometimes when i look at things like tables and chairs they seem strange.
+104,Chapman Percetual Aberrations,chapper16,I have felt as though my head or limbs were somehow not my own.
+105,Chapman Percetual Aberrations,chapper17,Sometimes part of my body has seemed smaller than it usually is.
+106,Chapman Percetual Aberrations,chapper18,I have sometimes had the feeling that my body is decaying inside.
+107,Chapman Percetual Aberrations,chapper19,Occasionally it has seemed as if my body had taken on the appearance of another persons body.
+108,Chapman Percetual Aberrations,chapper20,Ordinary colors sometimes seem much too bright to me.
+109,Chapman Percetual Aberrations,chapper21,Sometimes i have had a passing thought that some part of my body was rotting away.
+110,Chapman Percetual Aberrations,chapper22,I have sometimes had the feeling that one of my arms or legs is disconnected from the rest of my body.
+111,Chapman Percetual Aberrations,chapper23,It has seemed at times as if my body was melting into my surroundings.
+112,Chapman Percetual Aberrations,chapper24,I have never felt that my arms or legs have momentarily grown in size.
+113,Chapman Percetual Aberrations,chapper25,The boundaries of my body always seem clear.
+114,Chapman Percetual Aberrations,chapper26,Sometimes i have had feelings that i am united with an object near me.
+115,Chapman Percetual Aberrations,chapper27,Sometimes i have had the feeling that a part of my body is larger than it usually is.
+116,Chapman Percetual Aberrations,chapper28,I can remember when it seemed as though one of my limbs took on an unusual shape.
+117,Chapman Percetual Aberrations,chapper29,I have had the momentary feeling that my body has become misshapen.
+118,Chapman Percetual Aberrations,chapper30,I have had the momentary feeling that the things i touch remain attached to my body.
+119,Chapman Percetual Aberrations,chapper31,Sometimes i feel like everything around me is tilting.
+120,Chapman Percetual Aberrations,chapper32,I sometimes have to touch myself to make sure im still there.
+121,Chapman Percetual Aberrations,chapper33,Parts of my body occasionally seem dead or unreal.
+122,Chapman Percetual Aberrations,chapper34,At times i have wondered if my body was really my own.
+123,Chapman Percetual Aberrations,chapper35,For several days at a time i have had such a heightened awareness of sights and sounds that i cannot shut then out.
+124,Chapman Physical Anhedonia,chapphys01,I have usually found lovemaking to be intensely pleasurable.
+125,Chapman Physical Anhedonia,chapphys02,When eating a favorite food i have often tried to eat slowly to make it last longer.
+126,Chapman Physical Anhedonia,chapphys03,I have often enjoyed the feel of silk velvet or fur.
+127,Chapman Physical Anhedonia,chapphys04,I have sometimes enjoyed feeling the strength in my muscles.
+128,Chapman Physical Anhedonia,chapphys05,Dancing or the idea of it has always seemed dull to me.
+129,Chapman Physical Anhedonia,chapphys06,I have always found organ music dull and unexciting.
+130,Chapman Physical Anhedonia,chapphys07,The taste of food has always been important to me.
+131,Chapman Physical Anhedonia,chapphys08,I have had very little fun from physical activities like walking swimming or sports.
+132,Chapman Physical Anhedonia,chapphys09,I have seldom enjoyed any kind of sexual experience.
+133,Chapman Physical Anhedonia,chapphys10,On hearing a good song i have seldom wanted to sing along with it.
+134,Chapman Physical Anhedonia,chapphys11,I have always hated the feeling of exhaustion that comes from vigorous activity.
+135,Chapman Physical Anhedonia,chapphys12,The color that things are painted has seldom mattered to me.
+136,Chapman Physical Anhedonia,chapphys13,The sound of rustling leaves has never much pleased me.
+137,Chapman Physical Anhedonia,chapphys14,Sunbathing isnt really more fun than lying down indoors.
+138,Chapman Physical Anhedonia,chapphys15,There just are not many things that i have ever really enjoyed doing.
+139,Chapman Physical Anhedonia,chapphys16,I dont know why some people are so interested in music.
+140,Chapman Physical Anhedonia,chapphys17,Flowers arent as beautiful as many people claim.
+141,Chapman Physical Anhedonia,chapphys18,I have always loved having my back massaged.
+142,Chapman Physical Anhedonia,chapphys19,I never wanted to go on any of the rides at an amusement park.
+143,Chapman Physical Anhedonia,chapphys20,Trying new foods is something i have always enjoyed.
+144,Chapman Physical Anhedonia,chapphys21,The warmth of an open fireplace hasnt especially soothed and calmed me.
+145,Chapman Physical Anhedonia,chapphys22,Poets always exaggerate the beauty and joys of nature.
+146,Chapman Physical Anhedonia,chapphys23,When i have seen a statue i have had the urge to feel it.
+147,Chapman Physical Anhedonia,chapphys24,I have always had a number of favorite foods.
+148,Chapman Physical Anhedonia,chapphys25,I dont understand why people enjoy looking at the stars at night.
+149,Chapman Physical Anhedonia,chapphys26,I have had very little desire to try new kinds of foods.
+150,Chapman Physical Anhedonia,chapphys27,I never have the desire to take off my shoes and walk through a puddle barefoot.
+151,Chapman Physical Anhedonia,chapphys28,Ive never cared much about the texture of food.
+152,Chapman Physical Anhedonia,chapphys29,When i have walked by a bakery the smell of fresh bread has often made me hungry.
+153,Chapman Physical Anhedonia,chapphys30,I have often enjoyed receiving a strong warm handshake.
+154,Chapman Physical Anhedonia,chapphys31,I have often felt uncomfortable when my friends touch me.
+155,Chapman Physical Anhedonia,chapphys32,I have never found a thunderstorm exhilarating.
+156,Chapman Physical Anhedonia,chapphys33,Standing on a high place and looking out over the view is very exciting.
+157,Chapman Physical Anhedonia,chapphys34,I have often found walks to be relaxing and enjoyable.
+158,Chapman Physical Anhedonia,chapphys35,The sound of the rain falling on the roof has made me feel snug and secure.
+159,Chapman Physical Anhedonia,chapphys36,I like playing with and petting soft little kittens or puppies.
+160,Chapman Physical Anhedonia,chapphys37,The sound of organ music has often thrilled me.
+161,Chapman Physical Anhedonia,chapphys38,Beautiful scenery has been a great delight to me.
+162,Chapman Physical Anhedonia,chapphys39,The first winter snowfall has often looked pretty to me.
+163,Chapman Physical Anhedonia,chapphys40,Sex is okay but not as much fun as most people claim it is.
+164,Chapman Physical Anhedonia,chapphys41,I have sometimes danced by myself just to feel my body move with the music.
+165,Chapman Physical Anhedonia,chapphys42,I have seldom cared to sing in the shower.
+166,Chapman Physical Anhedonia,chapphys43,One food tastes as good as another to me.
+167,Chapman Physical Anhedonia,chapphys44,On seeing a soft thick carpet i have sometimes had the impulse to take off my shoes and walk barefoot on it.
+168,Chapman Physical Anhedonia,chapphys45,After a busy day a slow walk has often felt relaxing.
+169,Chapman Physical Anhedonia,chapphys46,The bright lights of a city are exciting to look at.
+170,Chapman Physical Anhedonia,chapphys47,The beauty of sunsets is greatly overrated.
+171,Chapman Physical Anhedonia,chapphys48,It has always made me feel good when someone i care about reaches out to touch me.
+172,Chapman Physical Anhedonia,chapphys49,I have usually found soft music boring rather than relaxing.
+173,Chapman Physical Anhedonia,chapphys50,I have usually finished my bath or shower as quickly as possible just to get it over with.
+174,Chapman Physical Anhedonia,chapphys51,The smell of dinner cooking has hardly ever aroused my appetite.
+175,Chapman Physical Anhedonia,chapphys52,When i pass by flowers i have often stopped to smell them.
+176,Chapman Physical Anhedonia,chapphys53,Sex is the most intensely enjoyable thing in life.
+177,Chapman Physical Anhedonia,chapphys54,I think that flying a kite is silly.
+178,Chapman Physical Anhedonia,chapphys55,Ive never cared to sunbathe it just makes me hot.
+179,Chapman Physical Anhedonia,chapphys56,The sounds of a parade have never excited me.
+180,Chapman Physical Anhedonia,chapphys57,It has often felt good to massage my muscles when they are tired or sore.
+181,Chapman Physical Anhedonia,chapphys58,When im feeling a little sad singing has often made me feel happier.
+182,Chapman Physical Anhedonia,chapphys59,A good soap lather when im bathing has sometimes soothed and refreshed me.
+183,Chapman Physical Anhedonia,chapphys60,A brisk walk has sometimes made me feel good all over.
+184,Chapman Social Anhedonia,chapsoc01,Having close friends is not as important as many people say.
+185,Chapman Social Anhedonia,chapsoc02,I attach very little importance to having close friends.
+186,Chapman Social Anhedonia,chapsoc03,I prefer watching television to going out with other people.
+187,Chapman Social Anhedonia,chapsoc04,A car ride is much more enjoyable if someone is with me.
+188,Chapman Social Anhedonia,chapsoc05,I like to make long distance phone calls to friends and relatives.
+189,Chapman Social Anhedonia,chapsoc06,Playing with children is a real chore.
+190,Chapman Social Anhedonia,chapsoc07,I have always enjoyed looking at photographs of friends.
+191,Chapman Social Anhedonia,chapsoc08,Although there are things that i enjoy doing by myself i usually seem to have more fun when i do things with other people.
+192,Chapman Social Anhedonia,chapsoc09,I sometimes become deeply attached to people i spend a lot of time with.
+193,Chapman Social Anhedonia,chapsoc10,People sometimes think that i am shy when i really just want to be left alone.
+194,Chapman Social Anhedonia,chapsoc11,When things are going really good for my close friends it makes me feel good too.
+195,Chapman Social Anhedonia,chapsoc12,When someone close to me is depressed it brings me down also.
+196,Chapman Social Anhedonia,chapsoc13,My emotional responses seem very different from those of other people.
+197,Chapman Social Anhedonia,chapsoc14,When i am alone i often resent people telephoning me or knocking on my door.
+198,Chapman Social Anhedonia,chapsoc15,Just being with friends can make me feel really good.
+199,Chapman Social Anhedonia,chapsoc16,When things are bothering me i like to talk to other people about it.
+200,Chapman Social Anhedonia,chapsoc17,I prefer hobbies and leisure activities that do not involve other people.
+201,Chapman Social Anhedonia,chapsoc18,Its fun to sing with other people.
+202,Chapman Social Anhedonia,chapsoc19,Knowing that i have friends who care about me gives me a sense of security.
+203,Chapman Social Anhedonia,chapsoc20,When i move to a new city i feel a strong need to make new friends.
+204,Chapman Social Anhedonia,chapsoc21,People are usually better off if they stay aloof from emotional involvements with most others.
+205,Chapman Social Anhedonia,chapsoc22,Although i know i should have affection for certain people i dont really feel it.
+206,Chapman Social Anhedonia,chapsoc23,People often expect me to spend more time talking with them than iwould like.
+207,Chapman Social Anhedonia,chapsoc24,I feel pleased and gratified as i learn more and more about the emotional life of my friends.
+208,Chapman Social Anhedonia,chapsoc25,When others try to tell me about their problems and hangups iusually listen with interest and attention.
+209,Chapman Social Anhedonia,chapsoc26,I never had really close friends in high school.
+210,Chapman Social Anhedonia,chapsoc27,I am usually content to just sit alone thinking and daydreaming.
+211,Chapman Social Anhedonia,chapsoc28,Im much too independent to really get involved with other people.
+212,Chapman Social Anhedonia,chapsoc29,There are few things more tiring than to have a long personal discussion with someone.
+213,Chapman Social Anhedonia,chapsoc30,It made me sad to see all my high school friends go their separate ways when high school was over.
+214,Chapman Social Anhedonia,chapsoc31,I have often found it hard to resist talking to a good friend even wheni have other things to do.
+215,Chapman Social Anhedonia,chapsoc32,Making new friends isnt worth the energy it takes.
+216,Chapman Social Anhedonia,chapsoc33,There are things that are more important to me than privacy.
+217,Chapman Social Anhedonia,chapsoc34,People who try to get to know me better usually give up after awhile.
+218,Chapman Social Anhedonia,chapsoc35,I could be happy living all alone in a cabin in the woods or mountains.
+219,Chapman Social Anhedonia,chapsoc36,If given the choice i would much rather be with others than be alone.
+220,Chapman Social Anhedonia,chapsoc37,I find that people too often assume that their daily activities and opinions will be interesting to me.
+221,Chapman Social Anhedonia,chapsoc38,I dont really feel very close to my friends.
+222,Chapman Social Anhedonia,chapsoc39,My relationships with other people never get very intense.
+223,Chapman Social Anhedonia,chapsoc40,In many ways i prefer the company of pets to the company of people.
+224,Hopkins Symptom Cheklist,hopkins01,Headaches.
+225,Hopkins Symptom Cheklist,hopkins02,Nervousness or shakiness inside.
+226,Hopkins Symptom Cheklist,hopkins03,Being unable to get rid of bad thoughts or ideas.
+227,Hopkins Symptom Cheklist,hopkins04,Faintness or dizziness.
+228,Hopkins Symptom Cheklist,hopkins05,Loss of sexual interest or pleasure.
+229,Hopkins Symptom Cheklist,hopkins06,Feeling critical of others.
+230,Hopkins Symptom Cheklist,hopkins07,Bad dreams.
+231,Hopkins Symptom Cheklist,hopkins08,Difficulty in speaking when you are excited.
+232,Hopkins Symptom Cheklist,hopkins09,Trouble remembering things.
+233,Hopkins Symptom Cheklist,hopkins10,Worried about sloppiness or carelessness.
+234,Hopkins Symptom Cheklist,hopkins11,Feeling easily annoyed or irritated.
+235,Hopkins Symptom Cheklist,hopkins12,Pains in the heart or chest.
+236,Hopkins Symptom Cheklist,hopkins13,Itching.
+237,Hopkins Symptom Cheklist,hopkins14,Feeling low in energy or slowed down.
+238,Hopkins Symptom Cheklist,hopkins15,Thoughts of ending your life.
+239,Hopkins Symptom Cheklist,hopkins16,Sweating.
+240,Hopkins Symptom Cheklist,hopkins17,Trembling.
+241,Hopkins Symptom Cheklist,hopkins18,Feeling confused.
+242,Hopkins Symptom Cheklist,hopkins19,Poor appetite.
+243,Hopkins Symptom Cheklist,hopkins20,Crying easily.
+244,Hopkins Symptom Cheklist,hopkins21,Feeling shy or uneasy with the opposite sex.
+245,Hopkins Symptom Cheklist,hopkins22,A feeling of being trapped or caught.
+246,Hopkins Symptom Cheklist,hopkins23,Suddenly scared for no reason.
+247,Hopkins Symptom Cheklist,hopkins24,Temper outbursts that you could not control.
+248,Hopkins Symptom Cheklist,hopkins25,Constipation.
+249,Hopkins Symptom Cheklist,hopkins26,Blaming yourself for things.
+250,Hopkins Symptom Cheklist,hopkins27,Pains in the lower part of your back.
+251,Hopkins Symptom Cheklist,hopkins28,Feeling blocked in getting things done.
+252,Hopkins Symptom Cheklist,hopkins29,Feeling lonely.
+253,Hopkins Symptom Cheklist,hopkins30,Feeling blue.
+254,Hopkins Symptom Cheklist,hopkins31,Worrying or stewing about things.
+255,Hopkins Symptom Cheklist,hopkins32,Feeling no interest in things.
+256,Hopkins Symptom Cheklist,hopkins33,Feeling fearful.
+257,Hopkins Symptom Cheklist,hopkins34,Your feelings being easily hurt.
+258,Hopkins Symptom Cheklist,hopkins35,Having to ask others what you should do.
+259,Hopkins Symptom Cheklist,hopkins36,Feeling others do not understand you or are unsympathetic.
+260,Hopkins Symptom Cheklist,hopkins37,Feeling that people are unfriendly or dislike you.
+261,Hopkins Symptom Cheklist,hopkins38,Having to do things very slowly in order to insure you were doing them right.
+262,Hopkins Symptom Cheklist,hopkins39,Heart pounding or racing.
+263,Hopkins Symptom Cheklist,hopkins40,Nausea or upset stomach.
+264,Hopkins Symptom Cheklist,hopkins41,Feeling inferior to others.
+265,Hopkins Symptom Cheklist,hopkins42,Soreness of your muscles.
+266,Hopkins Symptom Cheklist,hopkins43,Loose bowel movements.
+267,Hopkins Symptom Cheklist,hopkins44,Difficulty in falling asleep or staying asleep.
+268,Hopkins Symptom Cheklist,hopkins45,Having to check and doublecheck what you do.
+269,Hopkins Symptom Cheklist,hopkins46,Difficulty making decisions.
+270,Hopkins Symptom Cheklist,hopkins47,Wanting to be alone.
+271,Hopkins Symptom Cheklist,hopkins48,Trouble getting your breath.
+272,Hopkins Symptom Cheklist,hopkins49,Hot or cold spells.
+273,Hopkins Symptom Cheklist,hopkins50,Having to avoid certain things places or activities because they frighten you.
+274,Hopkins Symptom Cheklist,hopkins51,Your mind going blank.
+275,Hopkins Symptom Cheklist,hopkins52,Numbness or tingling in parts of your body.
+276,Hopkins Symptom Cheklist,hopkins53,A lump in your throat.
+277,Hopkins Symptom Cheklist,hopkins54,Feeling hopeless about the future.
+278,Hopkins Symptom Cheklist,hopkins55,Trouble concentrating.
+279,Hopkins Symptom Cheklist,hopkins56,Weakness in parts of your body.
+280,Hopkins Symptom Cheklist,hopkins57,Feeling tense or keyed up.
+281,Hopkins Symptom Cheklist,hopkins58,Heavy feelings in your arms or legs.

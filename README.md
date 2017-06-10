@@ -44,6 +44,10 @@ Diabetes Dataset (Module 3)
 * Publication: https://projecteuclid.org/euclid.aos/1083178935
 * Download: http://www4.stat.ncsu.edu/~boos/var.select/diabetes.html
 
+Phenotype Dataset (Module 3)
+* Publication: https://www.nature.com/articles/sdata2016110
+* Download: https://openfmri.org/dataset/ds000030/
+
 Wine Dataset (Module 3)
 * Publication: http://www.sciencedirect.com/science/article/pii/S0167923609001377
 * Download: https://archive.ics.uci.edu/ml/datasets/Wine+Quality
