@@ -15,7 +15,7 @@ All modules are broken into three parts: (1) **notes**, which provide overviews 
 To further motivate the topics, many of the modules include and make use of real datasets collected from various online repositories. These are detailed below and in their respective folders. 
 
 ## Prerequisites
-The tutorials are all written in Jupyter-Notebooks using Anaconda python distribution. Please visit its [this page](https://www.continuum.io/downloads) to download and install the Anaconda distribution. 
+The tutorials are all written in Jupyter-Notebooks as part of the Anaconda python v3.6 distribution. Please visit its [this page](https://www.continuum.io/downloads) to download and install the Anaconda distribution (python version 3.6). 
 
 # References
 ## Essential Texts
