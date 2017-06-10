@@ -1,0 +1,16 @@
+Python Workshop
+https://github.com/szorowi1/qmss2017
+
+Diabetes Dataset
+* Downloaded from: https://archive.ics.uci.edu/ml/datasets/iris
+* Published: https://www.jstor.org/stable/2394164
+
+Data Set Information
+"This is perhaps the best known database to be found in the pattern recognition literature.  Fisher's paper is a classic in the field and is referenced frequently to this day. The data set contains 3 classes of 50 instances each, where each class refers to a type of iris plant.  One class is linearly separable from the other 2; the latter are NOT linearly separable from each other."
+
+Dataset is comprised of 4 variables and 1 class variable (species) measured in 150 iris flowers. The data is stored in one CSV, iris.csv, and contains the following columns:
+* pepal length (cm)
+* pepal width (cm)
+* petal length (cm)
+* petal width (cm)
+* species: type of flower (Iris-Setosa, Iris-Versicolour, Iris-Virginica)

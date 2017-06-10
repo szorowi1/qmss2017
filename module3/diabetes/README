@@ -1,0 +1,20 @@
+Python Workshop
+https://github.com/szorowi1/qmss2017
+
+Diabetes Dataset
+* Downloaded from: http://www4.stat.ncsu.edu/~boos/var.select/diabetes.html
+* Published:  https://projecteuclid.org/euclid.aos/1083178935
+
+Data Set Information
+Dataset is comprised of 10 baseline variables and 1 outcome variable (disease progression) measured in 442 diabetes patients. The data is stored in one CSV, diabetes.csv, and contains the following columns:
+* AGE: age of subject
+* SEX: sex of subject
+* BMI: body mass index
+* BP:  blood pressure
+* S1:  blood serum measure
+* S2:  blood serum measure
+* S3:  blood serum measure
+* S4:  blood serum measure
+* S5:  blood serum measure
+* S6:  blood serum measure
+* Y:   disease progression (outcome measure)
