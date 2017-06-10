@@ -1,0 +1,19 @@
+Python Workshop
+https://github.com/szorowi1/qmss2017
+
+Gambling Dataset
+* Downloaded from: https://openfmri.org/dataset/ds000005/
+* Published: https://www.ncbi.nlm.nih.gov/pubmed/17255512
+
+Data Set Information
+This dataset is comprised of the behavior gathered from 16 participants who completed a gambling task of an fMRI study. The dataset is split across 48 TSV files corresponding to the 3 runs of the task by each participant. The files contain varying numbers of observations (trials), contingent on run number, of 11 variables. Each file contains the following columns:
+* onset:                      trial start time in seconds, relative to task
+* duration:                   length of trial in seconds
+* parametric loss:            see publication
+* distance from indifference: see publication
+* parametric gain:            see publication
+* gain:                       potential gain for that trial
+* loss:                       potential loss for that trial
+* PTval:                      see publication
+* respcat:                    participant response (1 = accept, 0 = reject, -1 = missing)
+* response_time:              time to response of participant

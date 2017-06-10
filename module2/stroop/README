@@ -1,0 +1,15 @@
+Python Workshop
+https://github.com/szorowi1/qmss2017
+
+Diabetes Dataset
+* Downloaded from: https://openfmri.org/dataset/ds000164/
+* Published: https://www.ncbi.nlm.nih.gov/pubmed/25143543
+* Further discussion: https://en.wikipedia.org/wiki/Stroop_effect
+
+Data Set Information
+This dataset is comprised of the behavior gathered from 28 participants who completed a Stroop task of an fMRI study. The dataset is split across 28 TSV files corresponding to each participant. Each file contains 120 observations (trials) of five variables measured during performance. Each file contains the following columns:
+* onset:         trial start time in seconds, relative to task
+* duration:      length of trial in seconds
+* correct:       accuracy of participant response
+* condition:     type of Stroop trial
+* response_time: time to response of participant
