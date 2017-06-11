@@ -11,10 +11,10 @@ Amazon Food Reviews Dataset
 Data Set Information:
 The National Science Foundation (NSF) makes available information about every grant it awards. These records extend back to 1963. Records are stored in XML format and include the following columns:
 * ID
-* Year: year awarded
-* Title: title of grant awarded
-* Funds: funds allocated from grant
+* Year:        year awarded
+* Title:       title of grant awarded
+* Funds:       funds allocated from grant
 * Directorate: awarding NSF organization
-* Division: subdivision of directorate
+* Division:    subdivision of directorate
 * Institution: awardee institution
 * State: awardee state
