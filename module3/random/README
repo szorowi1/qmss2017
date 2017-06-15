@@ -1,0 +1,8 @@
+Python Workshop
+https://github.com/szorowi1/qmss2017
+
+Random Dataset
+* Generated from scratch using random.py
+
+Data Set Information:
+The dataset is comprised of 200 observations 10 features (x01, x02, ..., x10) and 1 outcome variable (y). The outcome variable is a 4-class nominal/categorical variable with approximately equal numbers of observations of each class. 5 of the features are informative (i.e. predict the outcome variable). One of the predictor variables is redundant (i.e. linear combination of other variables). There is no missing data. The data is purely for pedagogic purposes, i.e. mainly to highlight some core functions of Scikit-Learn. 
