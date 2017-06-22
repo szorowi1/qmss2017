@@ -1,0 +1,10 @@
+Python Workshop
+https://github.com/szorowi1/qmss2017
+
+Les Miserables Network Dataset
+* Downloaded from: http://www-personal.umich.edu/~mejn/netdata/
+* Published: https://cs.stanford.edu/~uno/sgb.html
+
+Data Set Information:
+The Les Miserables network dataset contains the weighted network of co-appearances of
+characters in Victor Hugo's novel "Les Miserables".  Nodes represent characters as indicated by the labels and edges connect any pair of characters that appear in the same chapter of the book.  The values on the edges are the number of such co-appearances.
