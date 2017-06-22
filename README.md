@@ -1,5 +1,5 @@
 # Python Workshop Materials
-This repo contains a series of introductory tutorials for the Python programming language. The materials were originally written by Sam Zorowitz for an Intro to Python Workshop for the Columbia Quantitative Methods in the Social Sciences (QMSS) masters program in summer, 2017. The tutorials are broken into five sequential modules and cover the following topics:
+This repo contains a series of introductory tutorials to the Python programming language. The materials were originally written by Sam Zorowitz for an Intro to Python Workshop for the Columbia Quantitative Methods in the Social Sciences (QMSS) Masters Program in Summer, 2017. The tutorials are broken into six sequential modules and cover the following topics:
 
 | # | Topic                                     | Description                                                                                                                                                                                                                                                                                                                                     | Libraries Covered                                   |
 |---|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
@@ -16,7 +16,7 @@ All modules are broken into three parts: (1) **notes**, which provide overviews 
 To further motivate the topics, many of the modules include and make use of real datasets collected from various online repositories. These are detailed below and in their respective folders. 
 
 ## Prerequisites
-The tutorials are all written in Jupyter-Notebooks as part of the Anaconda python v3.6 distribution. Please visit its [this page](https://www.continuum.io/downloads) to download and install the Anaconda distribution (python version 3.6). 
+The tutorials are all written in Jupyter-Notebooks as part of the Anaconda python v3.6 distribution. Please visit [this page](https://www.continuum.io/downloads) to download and install the Anaconda distribution (python version 3.6). 
 
 # References
 ## Essential Texts
@@ -60,3 +60,7 @@ NSF Abstracts Dataset (Module 4)
 Amazon Food Reviews (Module 4)
 * Publication: http://i.stanford.edu/~julian/pdfs/www13.pdf
 * Download: http://snap.stanford.edu/data/web-FineFoods.html
+
+Les Miserables Network Dataset (Module 6)
+* Publication: https://cs.stanford.edu/~uno/sgb.html
+* Download: http://www-personal.umich.edu/~mejn/netdata/
